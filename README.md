@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Testimonials-screenshot.jpg)
+![](https://github.com/isabellegeof/Testimonials-grid-section/blob/main/Testimonials-screenshot.png)
 
 ### Links
 
