@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/isabellegeof/Testimonials-grid-section](https://github.com/isabellegeof/Testimonials-grid-section)
 - Live Site URL: [https://isabellegeof.github.io/Testimonials-grid-section/](https://isabellegeof.github.io/Testimonials-grid-section/)
 
 ## My process
